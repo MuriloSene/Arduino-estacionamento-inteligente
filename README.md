@@ -1,2 +1,2 @@
 # Arduino-estacionamento-inteligente
-Trabalho prático realizado na faculdade com o objetivo de desenvolver sistemas através do Arduino no TinkerCad
+Trabalho realizado com o objetivo de indicar lugares em que a vaga está ocupanda atráves do sensor do arduíno.
